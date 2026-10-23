@@ -1,7 +1,15 @@
 # 🧺 Smart Pantry Manager
 
-A Java Android app that helps you **cut food waste**: track what is in your pantry and get recipe
-suggestions **strictly** from what you already have - no shopping trip required.
+Smart Pantry Manager is an Android app that helps you keep track of what food you actually have at home and suggests recipes you can cook with it. Instead of guessing what's in the fridge or cupboard, you add your ingredients into the app, and it matches them against a list of recipes to show you what you can make right now.
+The app was built for the Mobile App Development 700 module, using Java and a local SQLite database.
+
+ # Why SQLite
+I chose SQLite because it's built into Android, 
+so there's no need to set up or connect to an external server or database service. 
+It stores all the pantry items and recipes directly on the device, 
+which **makes the app fast**, works offline, and keeps everything simple for a project of this size. 
+Since the app only needs to manage one user's data at a time, 
+a lightweight local database like SQLite is a natural fit rather than something more complex like a cloud database.
 
 > Mobile App Development 700 - Practical Assignment (Richfield Graduate Institute of Technology)
 
