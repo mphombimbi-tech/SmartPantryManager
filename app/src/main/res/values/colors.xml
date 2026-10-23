@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1F7A4D</color>
+    <color name="primary_dark">#155C39</color>
+    <color name="primary_light">#3FB37F</color>
+    <color name="primary_container">#DDF3E6</color>
+    <color name="accent">#FF8F3F</color>
+    <color name="accent_container">#FFF1E3</color>
+    <color name="bg">#F5F8F4</color>
+    <color name="text">#1E2A24</color>
+    <color name="text_secondary">#6B7A72</color>
+    <color name="danger">#E5484D</color>
+    <color name="chip_fresh_bg">#E3F5EB</color>
+    <color name="chip_fresh_text">#1F7A4D</color>
+    <color name="chip_soon_bg">#FFF1D6</color>
+    <color name="chip_soon_text">#B26A00</color>
+    <color name="chip_expired_bg">#FDE7E7</color>
+    <color name="chip_expired_text">#C62828</color>
+    <color name="chip_none_bg">#EEF1EF</color>
+    <color name="chip_none_text">#6B7A72</color>
+</resources>
